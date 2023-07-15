@@ -150,9 +150,11 @@
        width: 150px;
      }
   
-     .button__primary  {
+     .button__primary {
        padding: 20px;
        font-size: 20px;
+       border: 2px solid #FF6767;
+       cursor: pointer;
      }
   
      .hero__description {
